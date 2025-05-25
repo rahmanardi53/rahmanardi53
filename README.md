@@ -69,17 +69,17 @@ Bangun sistem manajemen sekolah: absensi, data siswa/guru, dan modul akademik be
 
 ### 📬 Kontak
 
-- 📱 [WhatsApp](https://wa.me/628xxxxxxxxxx)
-- 📧 [Email](mailto:rahmanardi@email.com)
+- 📱 [WhatsApp](https://wa.me/6285783986998)
+- 📧 [Email](mailto:rahmanardisaputra@gmail.com)
 - 📷 [Instagram](https://instagram.com/arr_dii)
-- 🌐 [Facebook](https://facebook.com/namakamu)
+- 🌐 [Facebook](https://facebook.com/whatshittooya)
 
 ---
 
 ### 📈 Stats
 
-![Ardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact)
+![Ardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmanardi53&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanardi53&layout=compact)
 
 ---
 
