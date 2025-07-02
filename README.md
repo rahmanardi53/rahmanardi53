@@ -59,14 +59,21 @@ Bangun sistem manajemen sekolah: absensi, data siswa/guru, dan modul akademik be
 
 ### 📸 Galeri Proyek
 
-| ![Project 1](https://wokaproject.id/project/1738678958.png) | ![Project 2](https://wokaproject.id/project/1738678980.png) | ![Project 3](https://wokaproject.id/project/1738679010.png) 
-| ![Project 4](https://wokaproject.id/project/1738679033.png) | ![Project 5](https://wokaproject.id/project/1738679059.png) | ![Project 6](https://wokaproject.id/project/1738679085.png) 
-| ![Project 7](https://wokaproject.id/project/1738679106.png) | ![Project 8](https://wokaproject.id/project/1738679554.png) | ![Project 9](https://wokaproject.id/project/1738680640.png)
-| ![Project 10](https://wokaproject.id/project/1749608508.jpg) | ![Project 11](https://wokaproject.id/project/1749608579.jpg) |
-|:--:|:--:|:--:||:--:|:--:|:--:||:--:|:--:|:--:||:--:|:--:|
-| App Data siswa | Web sekolah  | Jobfair Online 2025 | Arsip Dokumen | Web Sekolah | APP Pembayaran | Kelulusan | Jobfair Online 2024 | Rapor Online | Web Polres | Web Sekolah |
+| [![App Data Siswa](https://wokaproject.id/project/1738678958.png)](https://wokaproject.id/project/1738678958.png) | [![Web Sekolah](https://wokaproject.id/project/1738678980.png)](https://wokaproject.id/project/1738678980.png) | [![Jobfair Online 2025](https://wokaproject.id/project/1738679010.png)](https://wokaproject.id/project/1738679010.png) |
+|:--:|:--:|:--:|
+| App Data Siswa | Web Sekolah | Jobfair Online 2025 |
 
-> *Galeri lengkap bisa dilihat di Instagram @arr_dii*
+| [![Arsip Dokumen](https://wokaproject.id/project/1738679033.png)](https://wokaproject.id/project/1738679033.png) | [![Web Sekolah 2](https://wokaproject.id/project/1738679059.png)](https://wokaproject.id/project/1738679059.png) | [![APP Pembayaran](https://wokaproject.id/project/1738679085.png)](https://wokaproject.id/project/1738679085.png) |
+|:--:|:--:|:--:|
+| Arsip Dokumen | Web Sekolah 2 | APP Pembayaran |
+
+| [![Kelulusan](https://wokaproject.id/project/1738679106.png)](https://wokaproject.id/project/1738679106.png) | [![Jobfair Online 2024](https://wokaproject.id/project/1738679554.png)](https://wokaproject.id/project/1738679554.png) | [![Rapor Online](https://wokaproject.id/project/1738680640.png)](https://wokaproject.id/project/1738680640.png) |
+|:--:|:--:|:--:|
+| Kelulusan | Jobfair Online 2024 | Rapor Online |
+
+| [![Web Polres](https://wokaproject.id/project/1749608508.jpg)](https://wokaproject.id/project/1749608508.jpg) | [![Web Sekolah 3](https://wokaproject.id/project/1749608579.jpg)](https://wokaproject.id/project/1749608579.jpg) |  |
+|:--:|:--:|:--:|
+| Web Polres | Web Sekolah 3 |  |
 
 ---
 
