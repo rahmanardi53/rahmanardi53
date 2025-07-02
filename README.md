@@ -59,9 +59,12 @@ Bangun sistem manajemen sekolah: absensi, data siswa/guru, dan modul akademik be
 
 ### 📸 Galeri Proyek
 
-| ![Project 1](https://instagram.fcgk27-1.fna.fbcdn.net/your_image1.jpg) | ![Project 2](https://instagram.fcgk27-1.fna.fbcdn.net/your_image2.jpg) | ![Project 3](https://instagram.fcgk27-1.fna.fbcdn.net/your_image3.jpg) |
-|:--:|:--:|:--:|
-| Pisang Hunter 🍌 | Unity FPS Game 🎮 | Laravel + Vue Setup |
+| ![Project 1](https://wokaproject.id/project/1738678958.png) | ![Project 2](https://wokaproject.id/project/1738678980.png) | ![Project 3](https://wokaproject.id/project/1738679010.png) 
+| ![Project 4](https://wokaproject.id/project/1738679033.png) | ![Project 5](https://wokaproject.id/project/1738679059.png) | ![Project 6](https://wokaproject.id/project/1738679085.png) 
+| ![Project 7](https://wokaproject.id/project/1738679106.png) | ![Project 8](https://wokaproject.id/project/1738679554.png) | ![Project 9](https://wokaproject.id/project/1738680640.png)
+| ![Project 10](https://wokaproject.id/project/1749608508.jpg) | ![Project 11](https://wokaproject.id/project/1749608579.jpg) |
+|:--:|:--:|:--:||:--:|:--:|:--:||:--:|:--:|:--:||:--:|:--:|
+| App Data siswa | Web sekolah  | Jobfair Online 2025 | Arsip Dokumen | Web Sekolah | APP Pembayaran | Kelulusan | Jobfair Online 2024 | Rapor Online | Web Polres | Web Sekolah |
 
 > *Galeri lengkap bisa dilihat di Instagram @arr_dii*
 
@@ -83,4 +86,3 @@ Bangun sistem manajemen sekolah: absensi, data siswa/guru, dan modul akademik be
 
 ---
 
-📝 *README ini otomatis dirender di halaman profil GitHub kamu. Pastikan repositori bernama sama dengan username, misalnya `namakamu/namakamu`.*
